@@ -41,10 +41,12 @@ b.  KCL:
 CIRCUIT DIAGRAM:
 a.   KVL:
 ![alt text](<WhatsApp Image 2026-03-14 at 12.11.44 PM.jpeg>)
+![alt text](<WhatsApp Image 2026-03-18 at 9.12.53 AM.jpeg>)
 
 CIRCUIT DIAGRAM:
 b.  KCL:
 ![alt text](<WhatsApp Image 2026-03-14 at 12.11.53 PM.jpeg>)
+![alt text](<WhatsApp Image 2026-03-18 at 9.12.54 AM.jpeg>)
  
 
 Calculation:
